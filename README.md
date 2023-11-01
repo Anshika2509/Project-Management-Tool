@@ -3,7 +3,7 @@
 
 
 
-![image]"[Favicon](https://github.com/Anshika2509/Project-Management-Tool/blob/main/clock%20work.png)"
+![alt text](https://github.com/Anshika2509/Project-Management-Tool/blob/main/clock%20work.png)
 
 A simple web-based Project Management Tool built with HTML, CSS, and JavaScript that allows users to manage their tasks, assign tasks to others, mark tasks as completed, and add new tasks.
 
